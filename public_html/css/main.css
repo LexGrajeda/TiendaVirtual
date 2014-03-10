@@ -12,7 +12,7 @@ body {
     top: 6em;
     left: 1em;
     width: 16em;
-    background: url(../imagenes/menu.gif);
+    background: url(../img/menu.gif);
 }
 
 #menu ul {
@@ -35,7 +35,7 @@ a:hover, a:focus { color: #1295E4; }
 #contenido a:hover,#contenido a:focus { color: #1295E4; }
 
 #contenido {
-	background: url(../imagenes/content-middle.gif);
+	background: url(../img/content-middle.gif);
 }
 
 #contenido a {
@@ -46,12 +46,12 @@ a:hover, a:focus { color: #1295E4; }
 	text-decoration: none
 }
 #menu ul li a.current { 
-		background: url(../imagenes/tableft.gif) no-repeat;
+		background: url(../img/tableft.gif) no-repeat;
 		color: #000; 
 }
 
 #menu ul li a.current span { 
-	background: url(../imagenes/tabright.gif) no-repeat right top;
+	background: url(../img/tabright.gif) no-repeat right top;
  }
  
 #menu ul li a span { padding: 12px 20px 15px 0; }
